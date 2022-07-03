@@ -1,4 +1,4 @@
-      # publicize-comsci
+ # publicize-comsci
 Example of web  app written in php, Promote computer science curriculum.
 
 You can visit website at
